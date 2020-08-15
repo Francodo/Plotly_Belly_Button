@@ -2,9 +2,9 @@
 Francis Odo
 
 Background 
-Dashboard concept is a process in which data story telling is presented in an effective visualization format that depicts key performance indicators interactively in real time. This project combine HTML and JavaScript capability to create an interactive data presentation front.
+Dashboard concept is a process in which data story telling is presented in an effective and persuasive visualization format that depicts key performance indicators interactively in real time. This project combine HTML and JavaScript capability to create an interactive data presentation front.
 Objective
-The objective is to create a Bar Chart, Bubble Chart and a DropDown Selection Option interface that takes data information from a JSON formatted file and display the analysis in all three types of graphs. 
+The objective is to create a Bar Chart, Bubble Chart and a Drop Down Selection Option interface that takes data information from a JSON formatted file and display the analysis in all three types of graphs. 
 Tools/Environment
 The development environment is Visual Studio Code. Programming is done in three major area, namely:
 1.	HTML 
